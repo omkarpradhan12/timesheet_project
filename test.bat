@@ -1,3 +1,3 @@
 @echo off
-"C:\Python310\python.exe" "./test.py"
+"python" "./test.py"
 pause
